@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649574617784",
+    "project_id": "appjamoua",
+    "storage_bucket": "appjamoua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649574617784:android:941e40772e159f3c695a4d",
+        "android_client_info": {
+          "package_name": "com.example.app_jam_oua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649574617784-u9lve6vdkkg288kreocsrof4rfk38lju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxVyy3jGPLBA49ppJ1K-ONqDmvzsyb3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649574617784-c1q5qmnfdhe3420nhjbg1pi9drip69el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
